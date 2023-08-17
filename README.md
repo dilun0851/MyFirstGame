@@ -14,11 +14,11 @@ YouTube: https://www.youtube.com/live/vvm8aZg1e6U?feature=share
 5. System variables > Path
 6. Klik Edit
 7. Klik New
-8. Ketik # C:\xampp\php
+8. Ketik C:\xampp\php
    
 # Tutorial cara running game ini di Windows 11
 
 1. Buka Folder MyFirstGame
 2. Klik kiri
 3. Lalu Open in Terminal
-4. Ketik # php game.php
+4. Ketik php game.php
